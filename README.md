@@ -109,33 +109,33 @@ We recommend these summary keywords because they use imperative mood, present te
 
 Real-world examples show how we use imperative mood, present tense, active voice, and verbs:
 
-  * **Add** feature for a user to like a post
+  * **Adicionada** feature for a user to like a post
 
-  * **Drop** feature for a user to like a post
+  * **Removida** feature for a user to like a post
 
-  * **Fix** association between a user and a post
+  * **Corrigida** association between a user and a post
 
   * **Bump** dependency library to current version
 
-  * **Make** build process use caches for speed
+  * **Feito** build process use caches for speed
 
-  * **Start** feature flag for a user to like a post
+  * **Iniciada** feature flag for a user to like a post
 
-  * **Stop** feature flag for a user to like a post
+  * **Finalizada** feature flag for a user to like a post
 
-  * **Optimize** search speed for a user to see posts
+  * **Otimizada** search speed for a user to see posts
 
-  * **Document** community guidelines for post content
+  * **Documentada** community guidelines for post content
 
-  * **Refactor** user model to new language syntax
+  * **Refatorado** user model to new language syntax
 
-  * **Reformat** home page text to use more whitespace
+  * **Reformatado** home page text to use more whitespace
 
-  * **Rearrange** buttons so OK is on the lower right
+  * **Rearanjado** buttons so OK is on the lower right
 
-  * **Redraw** diagram of how our web app works
+  * **Redesenhado** diagram of how our web app works
 
-  * **Reword** home page text to be more welcoming
+  * **Reescrito** home page text to be more welcoming
 
 
 ## Use semantic versioning
