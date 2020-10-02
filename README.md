@@ -88,7 +88,7 @@ We recommend these summary keywords because they use imperative mood, present te
 
   * **Start**: Begin doing something; e.g. enable a toggle, feature flag, etc.
 
-  * **Stop**: End doing something; e.g. disable a toggle, feature flag, etc.
+  * **Concluído**: End doing something; e.g. disable a toggle, feature flag, etc.
 
   * **Optimize**: A change that MUST be just about performance, e.g. speed up code.
 
@@ -117,11 +117,11 @@ Real-world examples show how we use imperative mood, present tense, active voice
 
   * **Bump** dependency library to current version
 
-  * **Feito** build process use caches for speed
+  * **Make** build process use caches for speed
 
   * **Iniciada** feature flag for a user to like a post
 
-  * **Finalizada** feature flag for a user to like a post
+  * **Concluído** feature flag for a user to like a post
 
   * **Otimizada** search speed for a user to see posts
 
