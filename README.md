@@ -84,7 +84,7 @@ We recommend these summary keywords because they use imperative mood, present te
 
   * **Bump**: Increase the version of something e.g. a dependency.
 
-  * **Make**: Change the build process, or tools, or infrastructure.
+  * **Construído**: Change the build process, or tools, or infrastructure.
 
   * **Start**: Begin doing something; e.g. enable a toggle, feature flag, etc.
 
@@ -117,7 +117,7 @@ Real-world examples show how we use imperative mood, present tense, active voice
 
   * **Bump** dependency library to current version
 
-  * **Make** build process use caches for speed
+  * **Construído** build process use caches for speed
 
   * **Iniciada** feature flag for a user to like a post
 
