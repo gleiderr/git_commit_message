@@ -115,7 +115,7 @@ Real-world examples show how we use imperative mood, present tense, active voice
 
   * **Corrigida** association between a user and a post
 
-  * **Bump** dependency library to current version
+  * **Bump(Atualizada?)** dependency library to current version
 
   * **Construído** build process use caches for speed
 
