@@ -82,7 +82,7 @@ We recommend these summary keywords because they use imperative mood, present te
 
   * **Fix**: Fix an issue e.g. bug, typo, accident, misstatement.
 
-  * **Bump**: Increase the version of something e.g. a dependency.
+  * **Aplicado**: Increase the version of something e.g. a dependency.
 
   * **Construído**: Change the build process, or tools, or infrastructure.
 
@@ -115,7 +115,7 @@ Real-world examples show how we use imperative mood, present tense, active voice
 
   * **Corrigida** association between a user and a post
 
-  * **Bump(Atualizada?)** dependency library to current version
+  * **Aplicada** dependency library to current version
 
   * **Construído** build process use caches for speed
 
